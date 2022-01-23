@@ -1,0 +1,2 @@
+Las variables fenológicas de interés mayor son: Inicio, duración e integral menor de la temporada de crecimiento. 
+Las columnas con encabezados en mayúsculas son las utilizadas para los análisis, puesto que ya se encuentran en las unidades finales para el estudio.
